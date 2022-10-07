@@ -11,13 +11,13 @@ public class WaterTankFill {
 
 		do {
 
-			System.out.println("Bucket is filled up to : " + bucketFilledUpto);
+			System.out.println("Water Tank is filled up to : " + bucketFilledUpto + " Litres");
 			bucketFilledUpto = bucketFilledUpto + bucketCap;
 		}
 
 		while (bucketFilledUpto <= waterTankCapMax);
 
-		System.out.println("Water Tank are filled to it's capacity");
+		System.out.println("Water Tank is filled to it's capacity");
 
 	}
 

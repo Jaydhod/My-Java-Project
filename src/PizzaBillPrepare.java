@@ -8,7 +8,7 @@ public class PizzaBillPrepare {
 
 		char isExtraCheese = 'N'; // 'Y', 'N'
 
-		char isPepperoniTopping = 'Y'; // 'Y' , 'N'
+		char isPepperoniTopping = 'N'; // 'Y' , 'N'
 
 		// local variables
 

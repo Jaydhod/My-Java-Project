@@ -6,7 +6,7 @@ public class FillChocolateBox {
 
 		int addChoco = 5;
 		
-		int maxChocoInBox = 100;
+		int maxChocoInBox = 63;
 		
 		int chocoInBox = 27;
 		
